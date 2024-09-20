@@ -1,0 +1,29 @@
+.footer {
+  background-color: #333;
+  padding: 20px 0;
+  color: white;
+  text-align: center;
+}
+
+.main-footer {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.para {
+  margin-top: 10px;
+}
+
+.name {
+  font-size: 20px;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .main-footer {
+    font-size: 16px;
+  }
+}

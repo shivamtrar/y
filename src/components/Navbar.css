@@ -1,0 +1,25 @@
+.main {
+    background-color: #2967C4;
+    height: 81px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  .main-heading {
+    font-size: 35px;
+    font-weight: 700;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .main {
+      height: 60px;
+    }
+    .main-heading {
+      font-size: 24px;
+    }
+  }
+  
