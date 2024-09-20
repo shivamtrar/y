@@ -33,7 +33,7 @@ const Main = (props) => {
         </div>
         <div>
         
-            <h2 className='expert'>Ask an experts</h2>
+            <h2 className='expert'>Ask an expert</h2>
           
         </div>
       </div>
@@ -47,7 +47,7 @@ const Main = (props) => {
           <p className='rep-icon'>Thousands of local repair experts ready to help</p>
           <p className='rep-icon'>Most repairs done in same day</p>
           <Link to="/contact-us">
-            <button className='button-book' style={{cursor:"pointer"}}>Book your Appointment</button>
+            <button className='button' style={{cursor:"pointer"}}>Book your Appointment</button>
           </Link>
           
         </div>
@@ -64,7 +64,7 @@ const Main = (props) => {
         </div>
         <div>
         
-            <h2 className='expert'>Ask an experts</h2>
+            <h2 className='expert'>Ask an expert</h2>
           
         </div>
       </div>

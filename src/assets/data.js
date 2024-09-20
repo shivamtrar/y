@@ -31,7 +31,7 @@ export const data = [
     },
     {
         id: "6",
-        title: "Accounting & Bookkeeping",
+        title: "Accounting",
         desc: "Book your appointment for repair, installation or device pickup",
         img: "/asset/accounting.jpg",
     },

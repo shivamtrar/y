@@ -78,3 +78,16 @@
     transition: opacity 0.1s ease-out;
   }
 
+  /* Media Queries */
+
+  @media (max-width: 1080px) {
+    .testimonial-text{
+      display: none;
+    }
+  }
+
+@media (max-width: 768px) {
+  .testimonial-text{
+    display: none;
+  }
+}
